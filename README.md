@@ -11,8 +11,8 @@ Este es un simple conversor de monedas que te permite convertir entre diferentes
 ## Uso
 
 1. Abre la aplicación del conversor de monedas.
-2. Selecciona la moneda de origen y la moneda de destino de las listas desplegables.
-3. Ingresa la cantidad que deseas convertir.
+2. Ingresa la cantidad que deseas convertir.
+3. Selecciona la moneda de origen y la moneda de destino de las listas desplegables.
 4. Haz clic en el botón "Convertir" para obtener el resultado.
 5. El resultado se mostrará en la parte inferior de la pantalla.
 
@@ -20,9 +20,9 @@ Este es un simple conversor de monedas que te permite convertir entre diferentes
 
 Si deseas convertir 100 dólares estadounidenses (USD) a euros (EUR), puedes seguir estos pasos:
 
-1. Selecciona "USD" como la moneda de origen.
-2. Selecciona "EUR" como la moneda de destino.
-3. Ingresa "100" en el campo de cantidad.
+1. Ingresa "100" en el campo de cantidad.
+2. Selecciona "USD" como la moneda de origen.
+3. Selecciona "EUR" como la moneda de destino.
 4. Haz clic en el botón "Convertir".
 
 El resultado se mostrará en la pantalla, mostrando el equivalente en euros.
